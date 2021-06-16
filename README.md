@@ -8,7 +8,7 @@ A curated list of awesome **well maintained** opensource voxel tools, libraries,
 - [building-blocks](https://github.com/bonsairobo/building-blocks) 📦<sup>Rust</sup><sub>MIT</sub> Voxel library for real-time applications.
 - [noa-engine](https://github.com/andyhall/noa) 📦<sup>JavaScript</sup><sub>MIT</sub> Experimental voxel game engine on top of Babylon.js.
 - [opengametools](https://github.com/jpaver/opengametools) 📦<sup>C++</sup><sub>MIT</sub> Set of unencumbered, free, lightweight, easy-to-integrate tools for use in game development
-- [Vengi](https://mgerhardy.github.io/engine) 📦<sup>C++</sup><sub>MIT</sub> Feature-rich voxel game engine and tools.
+- [vengi](https://mgerhardy.github.io/engine) 📦<sup>C++</sup><sub>MIT</sub> Feature-rich voxel game engine and tools.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) 🔌<sup>GDScript</sup><sub>MIT</sub> Voxel plugin for Godot game engine. ([demo](https://www.youtube.com/watch?v=d85DMiwnIFI&list=PLtHdpVR_yVIg-zcCmDxERhq4jh1RVxSTQ))
 
 ## Tools
