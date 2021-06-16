@@ -23,5 +23,7 @@ A curated list of awesome **well maintained** opensource voxel tools, libraries,
 ## Implementation
 > - 🎮 Game
 > - 🏏 Prototype or Proof of Concept
+> - 🥪 Sandbox or Engine
 
-- [Veloren](https://veloren.net) 🎮<sup>Rust</sup><sub>GPL3</sub> Multiplayer voxel RPG inspired by Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
+- [Minetest](https://www.minetest.net) 🥪<sup>C++</sup><sub>LGPL2</sub> Cross-platform voxel game engine with easy modding and game creation via Lua API.
+- [Veloren](https://veloren.net) 🎮<sup>Rust</sup><sub>GPL3</sub> Desktop multiplayer voxel RPG inspired by Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
