@@ -13,6 +13,7 @@ A curated list of awesome **well maintained** opensource voxel tools, libraries,
 > - ♻️ Converter
 > - 🖼️ Previewer
 
+- [FileToVox](https://github.com/Zarbuz/FileToVox) ♻️<sup>C#</sup><sub>MIT</sub> CLI to convert a file into a MagicaVoxel file (.vox).
 - [Goxel](https://goxel.xyz) 🎨<sup>C++</sup><sub>GPL3</sub> Cross-platform multi-format voxel editor with layers and unlimited scene size.
 - [vengi-thumbnailer](vengi-thumbnailer) 🖼️<sup>C++</sup><sub>MIT</sub> Create thumbnailer images of all supported voxel formats by Vengi game engine.
 - [VoxConvert](https://mgerhardy.github.io/engine/voxconvert/Index) ♻️<sup>C++</sup><sub>MIT</sub> Convert voxel volume formats between each other or export to obj or ply. It's part of Vengi project.
