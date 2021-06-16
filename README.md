@@ -15,8 +15,8 @@ A curated list of awesome **well maintained** opensource voxel tools, libraries,
 
 - [FileToVox](https://github.com/Zarbuz/FileToVox) ♻️<sup>C#</sup><sub>MIT</sub> CLI to convert a file into a MagicaVoxel file (.vox).
 - [Goxel](https://goxel.xyz) 🎨<sup>C++</sup><sub>GPL3</sub> Cross-platform multi-format voxel editor with layers and unlimited scene size.
-- [vengi-thumbnailer](vengi-thumbnailer) 🖼️<sup>C++</sup><sub>MIT</sub> Create thumbnailer images of all supported voxel formats by Vengi game engine.
-- [VoxConvert](https://mgerhardy.github.io/engine/voxconvert/Index) ♻️<sup>C++</sup><sub>MIT</sub> Convert voxel volume formats between each other or export to obj or ply. It's part of Vengi project.
+- [vengi-thumbnailer](vengi-thumbnailer) 🖼️<sup>C++</sup><sub>MIT</sub> CLI to create thumbnailer images of all supported voxel formats supported by Vengi game engine.
+- [VoxConvert](https://mgerhardy.github.io/engine/voxconvert/Index) ♻️<sup>C++</sup><sub>MIT</sub> CLI to convert voxel volume formats between each other or export to obj or ply. It's part of Vengi project.
 - [VoxEdit](https://mgerhardy.github.io/engine/voxedit/Index) 🎨<sup>C++</sup><sub>MIT</sub> Feature-rich cross-platform multi-format voxel volume editor based on Vengi game engine.
 - [Voxly](https://github.com/ClarkThyLord/Voxly) 🎨<sup>GDScript</sup><sub>MIT</sub> Editor optimized for voxel content for games and has out of the box integration with Godot. (still in **very** early stages)
 
