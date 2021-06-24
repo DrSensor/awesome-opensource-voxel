@@ -10,6 +10,9 @@ A curated list of awesome **well maintained** opensource voxel tools, libraries,
 - [opengametools](https://github.com/jpaver/opengametools) 📦<sup>C++</sup><sub>MIT</sub> Set of unencumbered, free, lightweight, easy-to-integrate tools for use in game development
 - [vengi](https://mgerhardy.github.io/engine) 📦<sup>C++</sup><sub>MIT</sub> Feature-rich voxel game engine and tools.
 - [Voxel-Core](https://github.com/ClarkThyLord/Voxel-Core) 🔌<sup>GDScript</sup><sub>MIT</sub> Voxel plugin for Godot game engine. ([demo](https://www.youtube.com/watch?v=d85DMiwnIFI&list=PLtHdpVR_yVIg-zcCmDxERhq4jh1RVxSTQ))
+- [Voxel Tools](https://github.com/Zylann/godot_voxel) 🔌<sup>C++</sup><sub>MIT</sub> [Godot module][] for voxel world building
+
+[Godot module]: https://docs.godotengine.org/en/stable/development/cpp/custom_modules_in_cpp.html
 
 ## Tools
 > - 🎨 Editor
