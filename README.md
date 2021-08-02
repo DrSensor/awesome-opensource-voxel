@@ -33,4 +33,5 @@ A curated list of awesome **well maintained** opensource voxel tools, libraries,
 > - 🥪 Sandbox or Engine
 
 - [Minetest](https://www.minetest.net) 🥪<sup>C++</sup><sub>LGPL2</sub> Cross-platform voxel game engine with easy modding and game creation via Lua API.
+- [MineWeb](https://github.com/ian13456/mine.js) 🏏<sup>Typescript, Rust</sup><sub>MIT</sub> Multiplayer voxel engine that runs in the web browser.
 - [Veloren](https://veloren.net) 🎮<sup>Rust</sup><sub>GPL3</sub> Desktop multiplayer voxel RPG inspired by Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
